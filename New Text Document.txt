@@ -1,1 +1,5 @@
 Very brief introduction to Git (if you already know about Git skip this) there are plenty of links in this post to give you more in-depth information:
+
+I’ve been using Git for almost a year now (Thanks to @robcthegeek for introducing Git to @JustGiving). Before using Git I preferred SVN I’ve also suffered The Fail Server (TFS). 
+
+The zero friction workflow and performance achieved with Git made me realise the friction of centralized version control systems. This post is a step by step guide for anyone using Windows who wants to get up and running on Git.
