@@ -1,0 +1,1 @@
+Very brief introduction to Git (if you already know about Git skip this) there are plenty of links in this post to give you more in-depth information:
